@@ -10,6 +10,7 @@ Aspiring front end developer<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Way2Ez2Nai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+<div align = center>
 [![](https://visitcount.itsvg.in/api?id=Way2Ez2Nai&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
