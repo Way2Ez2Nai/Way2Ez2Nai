@@ -13,9 +13,12 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Way2Ez2Nai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.vercel.app/?user=Way2Ez2Nai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Way2Ez2Nai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johncarlangelo&theme=tokyonight&hide_border=false"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Way2Ez2Nai&icon=0&color=0)](https://visitcount.itsvg.in)
