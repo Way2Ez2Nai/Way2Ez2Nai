@@ -1,23 +1,108 @@
-<h1 align="center">Hi, I'm Ian Joshua Gonzales 👋</h1> <h3 align="center">Computer Science Student · Builder of Practical Things · Dean's Lister</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+software;Laravel+%7C+JavaScript+%7C+MySQL+%7C+TypeScript;Currently+chasing+a+software+dev+internship;Fueled+by+curiosity+%26+way+too+much+coffee" alt="Typing SVG" /> </p> <p align="center"> <img src="https://img.shields.io/badge/📍-Pampanga,%20Philippines-blue?style=flat-square" /> <img src="https://img.shields.io/badge/🎓-BS%20Computer%20Science-informational?style=flat-square" /> <img src="https://img.shields.io/badge/🏆-Dean's%20Lister-yellow?style=flat-square" /> <img src="https://img.shields.io/badge/🚀-Open%20to%20Internships-success?style=flat-square" /> </p>
-🧭 About Me
+<div align="center">
 
-I'm a Computer Science student at Pampanga State University, graduating in 2026 and actively looking for an internship where I can turn coffee and curiosity into shipped code. I like building things that solve real problems for real people — not just for a grade.
+```
+   ▄████  ▒█████   ███▄    █  ▒███████▒ ▄▄▄       ██▓    ▓█████   ██████ 
+  ██▒ ▀█▒▒██▒  ██▒ ██ ▀█   █  ▒ ▒ ▒ ▄▀░▒████▄    ▓██▒    ▓█   ▀ ▒██    ▒ 
+ ▒██░▄▄▄░▒██░  ██▒▓██  ▀█ ██▒ ░ ▒ ▄▀▒░ ▒██  ▀█▄  ▒██░    ▒███   ░ ▓██▄   
+ ░▓█  ██▓▒██   ██░▓██▒  ▐▌██▒   ▄▀▒   ░░██▄▄▄▄██ ▒██░    ▒▓█  ▄   ▒   ██▒
+ ░▒▓███▀▒░ ████▓▒░▒██░   ▓██░ ▒███████▒ ▓█   ▓██▒░██████▒░▒████▒▒██████▒▒
+  ░▒   ▒ ░ ▒░▒░▒░ ░ ▒░   ▒ ▒  ░▒▒ ▓░▒░▒ ▒▒   ▓▒█░░ ▒░▓  ░░░ ▒░ ░▒ ▒▓▒ ▒ ░
+```
 
-🔭 I'm currently working on practical, community-driven software projects
-🌱 I'm always leveling up in web development and AI-assisted tools
-🎯 Goal right now: land a software development internship
-⚡ Fun fact: I also edit videos on the side — so I care about both how it works and how it looks
-🛠️ Featured Work
+### `ian@pampanga-state:~$ whoami`
 
-🧑‍💼 Hanap-Buhay — Thesis Project An online job-search platform built for informal workers in Santo Tomas, Pampanga. Uses a content-based matching algorithm to connect job seekers with opportunities that actually fit them. Laravel MySQL JavaScript
+</div>
 
-🍽️ SmartBite — Hackathon Build A vision-powered web app that looks at a photo of a dish and tells you what's in it — identifies the food, extracts ingredients, estimates nutrition, flags allergens, and even generates AI recipes. LLaVA LLaMA Ollama · Built at OpenxAI Network Hack Node 2025
+```yaml
+name:        Ian Joshua B. Gonzales
+role:        Computer Science Student, PSU '26
+status:      Dean's Lister | Open to internships
+based_in:    Pampanga, Philippines
+currently:   compiling a career
+```
 
-💻 Tech Stack
-<p align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </p>
-🧩 Beyond Code
-🖥️ Hands-on with hardware & software troubleshooting from real office IT work
-🎬 2+ years freelancing as a social media video editor
-🏫 Completed an admin-office internship where I digitized paper-based workflows — enrollment, sectioning, and student records — into a working system
-📫 Let's Connect
-<p align="left"> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> <p align="center"><i>"Consistent effort beats occasional bursts of brilliance." — building one commit at a time.</i></p>
+<br>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=00FF9C&center=true&vCenter=true&width=650&lines=I+don't+just+study+CS+%E2%80%94+I+ship+it.;Ask+me+about+the+time+I+taught+a+model+to+read+food+photos.;Currently+debugging%3A+my+own+internship+search." alt="Typing SVG" />
+</div>
+
+<br>
+
+---
+
+## 📖 The Origin Story
+
+> I didn't fall in love with code through a textbook. I fell in love with it through **problems worth solving**.
+
+Somewhere between fixing a jammed office printer, editing a client's video at 1 AM, and staring down a stubborn Laravel migration, I realized the common thread: **I like taking messy, manual, human problems and making them click.**
+
+That's basically my whole GitHub in one sentence.
+
+---
+
+## 🧪 Field Notes From My Lab
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💼 `hanap-buhay/`
+**The problem:** Informal workers in my hometown had no real way to find jobs online.
+**The build:** A job-matching platform using content-based matching so people actually get relevant leads, not noise.
+**Stack:** `Laravel` `MySQL` `JavaScript`
+> *This one's personal — it's built for people I grew up around.*
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ `smartbite/`
+**The problem:** "What's even in this dish, and can I eat it?"
+**The build:** Snap a photo → get the dish identified, ingredients extracted, nutrition estimated, allergens flagged, and a recipe generated by AI.
+**Stack:** `LLaVA` `LLaMA` `Ollama`
+> *Built in the trenches of OpenxAI Network Hack Node 2025.*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 What's Running In The Background
+
+```diff
++ Frontend & Web       : JavaScript, TypeScript, HTML, CSS, Tailwind CSS
++ Backend & Data       : PHP, Laravel, MySQL, C++
++ Tooling              : Git, VS Code
++ IRL Debugging        : Hardware & software troubleshooting (learned it on real
+                          office machines, not just in a lab)
++ Side Quest           : 2+ years freelance video editing — because good UX and
+                          good storytelling come from the same instinct
+```
+
+---
+
+## 🗂️ Sysadmin Arc
+
+Before this was all about code, I spent a stretch as the go-to fixer in a school's admin offices — organizing files, updating databases, untangling printer chaos, and quietly digitizing the paperwork nobody wanted to touch. I ended up building a small system to replace it: **enrollment management, class sectioning, registrar & guidance search** — all paperless.
+
+It taught me something I still carry into every project: *the best software is the one that makes someone's Tuesday easier.*
+
+---
+
+<div align="center">
+
+### `ian@pampanga-state:~$ ./connect.sh`
+
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email_me-00FF9C?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+
+<br><br>
+
+```
+> process complete.
+> looking for: software development internship
+> status: actively compiling opportunities...
+```
+
+</div>
